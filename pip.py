@@ -1,1 +1,3 @@
-pint("ti kto")
+print("ti kto")
+
+print("chelovek")
